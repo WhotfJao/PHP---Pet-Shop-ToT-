@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pagina{
+    font-family: "Jetbrains Mono";
+    width: 80%;
+    margin: 0 auto;
+}
+
+.conteudo{
+    margin-top: 40px;
+    border-top: 1px #ccc solid;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+    border-bottom: 1px #ccc solid;
+}
